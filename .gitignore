@@ -32,3 +32,5 @@
 *.out
 *.app
 *.log
+*.log
+Debug/HeadFirst.log
