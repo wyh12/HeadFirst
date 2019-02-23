@@ -1,6 +1,6 @@
 ﻿  HeadFirst.cpp
-e:\project\headfirst\headfirst\headfirst.cpp(201): warning C4305: “return”: 从“double”到“float”截断
-e:\project\headfirst\headfirst\headfirst.cpp(207): warning C4305: “return”: 从“double”到“float”截断
-e:\project\headfirst\headfirst\headfirst.cpp(222): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
-e:\project\headfirst\headfirst\headfirst.cpp(229): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\project\headfirst\headfirst\headfirst.cpp(203): warning C4305: “return”: 从“double”到“float”截断
+e:\project\headfirst\headfirst\headfirst.cpp(209): warning C4305: “return”: 从“double”到“float”截断
+e:\project\headfirst\headfirst\headfirst.cpp(224): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\project\headfirst\headfirst\headfirst.cpp(231): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
   HeadFirst.vcxproj -> E:\project\HeadFirst\Debug\HeadFirst.exe
